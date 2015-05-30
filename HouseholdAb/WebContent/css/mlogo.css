@@ -1,0 +1,27 @@
+#header {
+    padding-top: 10px;
+    background-color: #eee;
+}
+
+/*  logo
+/--------------------------------- */
+.logo{ / センタリング */
+    text-align: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.logo h1 { /* 丸とフォントのスタイリング */
+    margin: 0;
+    padding-top: 38px;
+    width: 150px;
+    height: 100px;
+    /*-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;*/
+    font-size: 40px;
+    color: #7E7E7E;
+    background-color: #eee;
+}
